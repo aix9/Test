@@ -19,4 +19,4 @@ See you soon =)
 Следующая статья - [Командная работа без путаницы: разбираем стратегии ветвления в Гите](https://javarush.ru/groups/posts/2693-komandnaja-rabota-bez-putanicih-razbiraem-strategii-vetvlenija-v-gite)
 
 Спасибо за внимание, дорогие читатели!
-До скорой встречи=)
+До встречи=)
